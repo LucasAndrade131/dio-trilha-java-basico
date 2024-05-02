@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/trilha-java-basico.iml" />
     </modules>
   </component>
