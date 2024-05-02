@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 out/
+*.out
 
 # Compiled class file
 *.class
@@ -27,11 +28,12 @@ out/
 
 #ides
 .idea/
-.idea/misc.xml
-.idea/modules.xml
-.idea/trilha-java-basico.iml
-.idea/uiDesigner.xml
-.idea/vcs.xml
+*.idea/misc.xml
+*.idea/modules.xml
+*.idea/trilha-java-basico.iml
+*.idea/uiDesigner.xml
+*.idea/vcs.xml
+.idea
 
 target/
 
