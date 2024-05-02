@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
-out/
+../../out/
 *.out
-
+/*.iml
 # Compiled class file
 *.class
 
