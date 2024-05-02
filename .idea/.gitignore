@@ -1,3 +1,8 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
 # Compiled class file
 *.class
 
@@ -24,6 +29,11 @@
 
 #ides
 .idea/
+.idea/misc.xml
+.idea/modules.xml
+.idea/trilha-java-basico.iml
+.idea/uiDesigner.xml
+.idea/vcs.xml
 
 target/
 
