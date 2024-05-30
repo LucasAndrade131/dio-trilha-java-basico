@@ -1,4 +1,4 @@
-package edu.lucas.segundasemana;
+package src.segundasemana;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {

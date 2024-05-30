@@ -1,4 +1,4 @@
-package edu.lucas.primeirasemana;
+package src.primeirasemana;
 
 public class DeclararMetodos {
     public static void main(String[] args) {
